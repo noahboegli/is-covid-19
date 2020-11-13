@@ -13,7 +13,7 @@ export class IsCovid19{
     }
     static theRealNameOfTheVirus(extended = false){
         if(extended){
-            return "No, the SARS-CoV-2 coronavirus cause the CoVID-19 disease."
+            return "No, the SARS-CoV-2 coronavirus causes the CoVID-19 disease."
         }else{
             return false;
         }
