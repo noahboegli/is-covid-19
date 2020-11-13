@@ -1,12 +1,12 @@
 export class IsCovid19{
     static aboutToDestroyTheWorld(){
-        return 0;
+        return false;
     }
     static aHoax(){
-        return 0;
+        return false;
     }
     static stagedByBillGates(){
-        return 0;
+        return false;
     }
     static aThreatToHumanity(){
         return 0.75;
